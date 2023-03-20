@@ -5,6 +5,6 @@ This repository contains the third stage of a student project to build a clone o
 Team Members to contributed to the hbnb project in this repository : 
 
 Adams Bola (adamadu52@gmail.com)
-
+            And
 Imoisili Charlian (icharlieanne@gmail.com)
 -- 
